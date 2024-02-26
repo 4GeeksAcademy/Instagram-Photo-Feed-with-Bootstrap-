@@ -1,0 +1,18 @@
+.nav-buttons{ 
+  display: flex;
+  display: grid; 
+            grid-template-columns: repeat(2, 1fr); 
+            gap: 10px; 
+}
+.grid-buttons{  
+  justify-content: center;
+  align-items: center;
+}
+.tab-content{ 
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.modal-title .fs-5{ 
+  display: flex;
+}
